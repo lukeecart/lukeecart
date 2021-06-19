@@ -7,11 +7,11 @@ Here are some ideas to get you started:
 ## Recent Git Activity: 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/david-lepage/TeaCozy/issues/2) in [david-lepage/TeaCozy](https://github.com/david-lepage/TeaCozy)
-2. 🗣 Commented on [#1](https://github.com/david-lepage/TeaCozy/issues/1) in [david-lepage/TeaCozy](https://github.com/david-lepage/TeaCozy)
-3. 💪 Opened PR [#1](https://github.com/david-lepage/TeaCozy/pull/1) in [david-lepage/TeaCozy](https://github.com/david-lepage/TeaCozy)
-4. 💪 Opened PR [#19](https://github.com/alexgurr/react-coding-challenges/pull/19) in [alexgurr/react-coding-challenges](https://github.com/alexgurr/react-coding-challenges)
-5. ❗️ Opened issue [#18](https://github.com/alexgurr/react-coding-challenges/issues/18) in [alexgurr/react-coding-challenges](https://github.com/alexgurr/react-coding-challenges)
+1. ❗️ Opened issue [#1875](https://github.com/EddieHubCommunity/support/issues/1875) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. ❗️ Opened issue [#2](https://github.com/david-lepage/TeaCozy/issues/2) in [david-lepage/TeaCozy](https://github.com/david-lepage/TeaCozy)
+3. 🗣 Commented on [#1](https://github.com/david-lepage/TeaCozy/issues/1) in [david-lepage/TeaCozy](https://github.com/david-lepage/TeaCozy)
+4. 💪 Opened PR [#1](https://github.com/david-lepage/TeaCozy/pull/1) in [david-lepage/TeaCozy](https://github.com/david-lepage/TeaCozy)
+5. 💪 Opened PR [#19](https://github.com/alexgurr/react-coding-challenges/pull/19) in [alexgurr/react-coding-challenges](https://github.com/alexgurr/react-coding-challenges)
 <!--END_SECTION:activity-->
 
 ---
