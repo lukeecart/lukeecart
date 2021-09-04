@@ -7,11 +7,11 @@ Here are some ideas to get you started:
 ## Recent Git Activity: 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#605](https://github.com/oliviertassinari/react-swipeable-views/issues/605) in [oliviertassinari/react-swipeable-views](https://github.com/oliviertassinari/react-swipeable-views)
-2. ❗️ Opened issue [#1875](https://github.com/EddieHubCommunity/support/issues/1875) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. ❗️ Opened issue [#2](https://github.com/david-lepage/TeaCozy/issues/2) in [david-lepage/TeaCozy](https://github.com/david-lepage/TeaCozy)
-4. 🗣 Commented on [#1](https://github.com/david-lepage/TeaCozy/issues/1) in [david-lepage/TeaCozy](https://github.com/david-lepage/TeaCozy)
-5. 💪 Opened PR [#1](https://github.com/david-lepage/TeaCozy/pull/1) in [david-lepage/TeaCozy](https://github.com/david-lepage/TeaCozy)
+1. ❗️ Opened issue [#225](https://github.com/Codecademy/docs/issues/225) in [Codecademy/docs](https://github.com/Codecademy/docs)
+2. 🗣 Commented on [#179](https://github.com/Codecademy/docs/issues/179) in [Codecademy/docs](https://github.com/Codecademy/docs)
+3. 🗣 Commented on [#179](https://github.com/Codecademy/docs/issues/179) in [Codecademy/docs](https://github.com/Codecademy/docs)
+4. 💪 Opened PR [#221](https://github.com/Codecademy/docs/pull/221) in [Codecademy/docs](https://github.com/Codecademy/docs)
+5. 🗣 Commented on [#179](https://github.com/Codecademy/docs/issues/179) in [Codecademy/docs](https://github.com/Codecademy/docs)
 <!--END_SECTION:activity-->
 
 ---
