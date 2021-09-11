@@ -17,3 +17,6 @@ I'm Luke. I am a full stack developer.
 ## ⭐ Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhagyamudgal/)
 [![dev.to](https://img.shields.io/badge/Dev.io-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/lukeecart)
+
+## 📢 Activity
+<!--START_SECTION:activity-->
