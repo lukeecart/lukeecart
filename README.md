@@ -1,21 +1,19 @@
 ### Hi there 👋
-Here are some ideas to get you started:
+I'm Luke. I am a full stack developer.
 
-- 🔭 I’m currently working on a project using typescript and node.
-- ❤ I'm building a progressive web app which streams audio from S3 and admins can upload.  
----
-## Recent Git Activity: 
+## 💻 Skills 
+- React
+- Typescript
+- Node
+- SQL
+- Firebase
+- Git
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#221](https://github.com/Codecademy/docs/issues/221) in [Codecademy/docs](https://github.com/Codecademy/docs)
-2. 🗣 Commented on [#221](https://github.com/Codecademy/docs/issues/221) in [Codecademy/docs](https://github.com/Codecademy/docs)
-3. 🗣 Commented on [#221](https://github.com/Codecademy/docs/issues/221) in [Codecademy/docs](https://github.com/Codecademy/docs)
-4. 🗣 Commented on [#227](https://github.com/Codecademy/docs/issues/227) in [Codecademy/docs](https://github.com/Codecademy/docs)
-5. ❗️ Opened issue [#225](https://github.com/Codecademy/docs/issues/225) in [Codecademy/docs](https://github.com/Codecademy/docs)
-<!--END_SECTION:activity-->
+## 👷‍♂️ Personal Projects
+- React Progressive Web App (PWA) to stream, filter and search audio recordings. (private repo)
+- Simple E-commerce site with Stripe and using Flask. (private repo)
+- Website showcasing some projects related to the Bible including a searchable family tree of bible characters (private repo)
 
----
-### Articles
-<a href="https://dev.to/lukeecart">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Luke Cartwright's DEV Community Profile" height="30" width="30">
-</a>
+## ⭐ Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhagyamudgal/)
+[![dev.to](https://img.shields.io/badge/Dev.io-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/lukeecart)
