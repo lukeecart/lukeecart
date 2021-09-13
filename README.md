@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Luke. I am a full stack developer.
+I'm Luke. I am a 23 year old full stack developer.
 
 ## 💻 Skills 
 - React
