@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Luke. I am a 23 year old full stack developer.
+I'm Luke. I am a 24 year old full stack developer.
 
 ## 💻 Skills 
 - React
@@ -11,8 +11,8 @@ I'm Luke. I am a 23 year old full stack developer.
 
 ## 👷‍♂️ Personal Projects
 - React Progressive Web App (PWA) to stream, filter and search audio recordings. (private repo)
-- Simple E-commerce site with Stripe and using Flask. (private repo)
-- Website showcasing some projects related to the Bible including a searchable family tree of bible characters (private repo)
+- Simple E-commerce site with Stripe and using Flask. (private repo) - https://preciousverses.co.uk/store/
+- Website showcasing some projects related to the Bible (private repo) - https://biblevisualised.co.uk/
 
 ## ⭐ Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhagyamudgal/)
