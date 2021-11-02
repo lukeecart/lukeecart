@@ -15,7 +15,7 @@ I'm Luke. I am a 24 year old full stack developer.
 - Website showcasing some projects related to the Bible (private repo) - https://biblevisualised.co.uk/
 
 ## ⭐ Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhagyamudgal/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luke-cartwright)
 [![dev.to](https://img.shields.io/badge/Dev.io-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/lukeecart)
 
 ## 📢 Recent Activity
