@@ -27,7 +27,7 @@ I'm Luke. I am a 24 year old full stack developer.
 5. 🗣 Commented on [#265](https://github.com/Codecademy/docs/issues/265) in [Codecademy/docs](https://github.com/Codecademy/docs)
 6. 🗣 Commented on [#265](https://github.com/Codecademy/docs/issues/265) in [Codecademy/docs](https://github.com/Codecademy/docs)
 7. 🗣 Commented on [#265](https://github.com/Codecademy/docs/issues/265) in [Codecademy/docs](https://github.com/Codecademy/docs)
-8. 🗣 Commented on [#474](https://github.com/Codecademy/docs/issues/474) in [Codecademy/docs](https://github.com/Codecademy/docs)
-9. 🗣 Commented on [#265](https://github.com/Codecademy/docs/issues/265) in [Codecademy/docs](https://github.com/Codecademy/docs)
+8. 🗣 Commented on [#265](https://github.com/Codecademy/docs/issues/265) in [Codecademy/docs](https://github.com/Codecademy/docs)
+9. 🗣 Commented on [#474](https://github.com/Codecademy/docs/issues/474) in [Codecademy/docs](https://github.com/Codecademy/docs)
 10. 🗣 Commented on [#265](https://github.com/Codecademy/docs/issues/265) in [Codecademy/docs](https://github.com/Codecademy/docs)
 <!--END_SECTION:activity-->
