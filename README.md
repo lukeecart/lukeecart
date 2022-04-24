@@ -20,14 +20,14 @@ I'm Luke. I am a 24 year old full stack developer.
 
 ## 📢 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#265](https://github.com/EddieHubCommunity/api/issues/265) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. 💪 Opened PR [#265](https://github.com/EddieHubCommunity/api/pull/265) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-3. 🗣 Commented on [#664](https://github.com/Codecademy/docs/issues/664) in [Codecademy/docs](https://github.com/Codecademy/docs)
-4. 🗣 Commented on [#664](https://github.com/Codecademy/docs/issues/664) in [Codecademy/docs](https://github.com/Codecademy/docs)
-5. 🗣 Commented on [#221](https://github.com/Codecademy/docs/issues/221) in [Codecademy/docs](https://github.com/Codecademy/docs)
-6. 🗣 Commented on [#265](https://github.com/Codecademy/docs/issues/265) in [Codecademy/docs](https://github.com/Codecademy/docs)
-7. 🗣 Commented on [#265](https://github.com/Codecademy/docs/issues/265) in [Codecademy/docs](https://github.com/Codecademy/docs)
-8. 🗣 Commented on [#265](https://github.com/Codecademy/docs/issues/265) in [Codecademy/docs](https://github.com/Codecademy/docs)
-9. 🗣 Commented on [#265](https://github.com/Codecademy/docs/issues/265) in [Codecademy/docs](https://github.com/Codecademy/docs)
+1. 🗣 Commented on [#267](https://github.com/EddieHubCommunity/api/issues/267) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+2. 🗣 Commented on [#265](https://github.com/EddieHubCommunity/api/issues/265) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+3. 💪 Opened PR [#267](https://github.com/EddieHubCommunity/api/pull/267) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+4. 🗣 Commented on [#265](https://github.com/EddieHubCommunity/api/issues/265) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+5. 🗣 Commented on [#265](https://github.com/EddieHubCommunity/api/issues/265) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+6. 💪 Opened PR [#265](https://github.com/EddieHubCommunity/api/pull/265) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+7. 🗣 Commented on [#664](https://github.com/Codecademy/docs/issues/664) in [Codecademy/docs](https://github.com/Codecademy/docs)
+8. 🗣 Commented on [#664](https://github.com/Codecademy/docs/issues/664) in [Codecademy/docs](https://github.com/Codecademy/docs)
+9. 🗣 Commented on [#221](https://github.com/Codecademy/docs/issues/221) in [Codecademy/docs](https://github.com/Codecademy/docs)
 10. 🗣 Commented on [#474](https://github.com/Codecademy/docs/issues/474) in [Codecademy/docs](https://github.com/Codecademy/docs)
 <!--END_SECTION:activity-->
