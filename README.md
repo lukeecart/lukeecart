@@ -14,6 +14,10 @@ I'm Luke. I am a 24 year old full stack developer.
 - Simple E-commerce site with Stripe and using Flask. (private repo) - https://preciousverses.co.uk/store/
 - Website showcasing some projects related to the Bible (private repo) - https://biblevisualised.co.uk/
 
+To say thank you, you could buy me a coffee?
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-black.png)](https://www.buymeacoffee.com/lukeecart)
+
 ## ⭐ Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luke-cartwright)
 [![dev.to](https://img.shields.io/badge/Dev.io-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/lukeecart)
