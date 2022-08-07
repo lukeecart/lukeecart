@@ -24,14 +24,14 @@ To say thank you, you could buy me a coffee?
 
 ## 📢 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#267](https://github.com/EddieHubCommunity/api/issues/267) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. 🗣 Commented on [#265](https://github.com/EddieHubCommunity/api/issues/265) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-3. 💪 Opened PR [#267](https://github.com/EddieHubCommunity/api/pull/267) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-4. 🗣 Commented on [#265](https://github.com/EddieHubCommunity/api/issues/265) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-5. 🗣 Commented on [#265](https://github.com/EddieHubCommunity/api/issues/265) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-6. 💪 Opened PR [#265](https://github.com/EddieHubCommunity/api/pull/265) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-7. 🗣 Commented on [#664](https://github.com/Codecademy/docs/issues/664) in [Codecademy/docs](https://github.com/Codecademy/docs)
-8. 🗣 Commented on [#664](https://github.com/Codecademy/docs/issues/664) in [Codecademy/docs](https://github.com/Codecademy/docs)
-9. 🗣 Commented on [#221](https://github.com/Codecademy/docs/issues/221) in [Codecademy/docs](https://github.com/Codecademy/docs)
-10. 🗣 Commented on [#474](https://github.com/Codecademy/docs/issues/474) in [Codecademy/docs](https://github.com/Codecademy/docs)
+1. 💪 Opened PR [#9](https://github.com/Dharmik48/todo-list-app/pull/9) in [Dharmik48/todo-list-app](https://github.com/Dharmik48/todo-list-app)
+2. 🗣 Commented on [#7](https://github.com/Dharmik48/todo-list-app/issues/7) in [Dharmik48/todo-list-app](https://github.com/Dharmik48/todo-list-app)
+3. 🗣 Commented on [#4](https://github.com/Dharmik48/todo-list-app/issues/4) in [Dharmik48/todo-list-app](https://github.com/Dharmik48/todo-list-app)
+4. 🗣 Commented on [#8](https://github.com/Dharmik48/todo-list-app/issues/8) in [Dharmik48/todo-list-app](https://github.com/Dharmik48/todo-list-app)
+5. 🗣 Commented on [#8](https://github.com/Dharmik48/todo-list-app/issues/8) in [Dharmik48/todo-list-app](https://github.com/Dharmik48/todo-list-app)
+6. 🗣 Commented on [#4](https://github.com/Dharmik48/todo-list-app/issues/4) in [Dharmik48/todo-list-app](https://github.com/Dharmik48/todo-list-app)
+7. 💪 Opened PR [#8](https://github.com/Dharmik48/todo-list-app/pull/8) in [Dharmik48/todo-list-app](https://github.com/Dharmik48/todo-list-app)
+8. ❗️ Opened issue [#7](https://github.com/Dharmik48/todo-list-app/issues/7) in [Dharmik48/todo-list-app](https://github.com/Dharmik48/todo-list-app)
+9. 🗣 Commented on [#4](https://github.com/Dharmik48/todo-list-app/issues/4) in [Dharmik48/todo-list-app](https://github.com/Dharmik48/todo-list-app)
+10. ❗️ Opened issue [#4](https://github.com/Dharmik48/todo-list-app/issues/4) in [Dharmik48/todo-list-app](https://github.com/Dharmik48/todo-list-app)
 <!--END_SECTION:activity-->
