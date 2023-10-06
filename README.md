@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Luke. I am a 24 year old full stack developer. Work Github: [lukeca362](https://github.com/lukeca362)
+I'm Luke. I am a 26 year old full stack developer. Work Github: [lukeca362](https://github.com/lukeca362)
 
 ## 💻 Skills 
 - React
