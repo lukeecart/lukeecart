@@ -1,6 +1,8 @@
 ### Hi there 👋
 I'm Luke. I am a 26 year old full stack developer. Work Github: [lukeca362](https://github.com/lukeca362)
 
+My [twitter/ X](https://x.com/lukeecart?t=WYKo3MSQRJgpSWPOn9OsGg&s=09)
+
 ## 💻 Skills 
 - React
 - Typescript
@@ -21,6 +23,7 @@ To say thank you, you could buy me a coffee?
 ## ⭐ Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luke-cartwright)
 [![dev.to](https://img.shields.io/badge/Dev.io-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/lukeecart)
+
 
 ## 📢 Recent Activity
 <!--START_SECTION:activity-->
