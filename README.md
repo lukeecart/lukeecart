@@ -11,11 +11,6 @@ My [twitter/ X](https://x.com/lukeecart?t=WYKo3MSQRJgpSWPOn9OsGg&s=09)
 - Firebase
 - Git
 
-## 👷‍♂️ Personal Projects
-- React Progressive Web App (PWA) to stream, filter and search audio recordings. (private repo)
-- Simple E-commerce site with Stripe and using Flask. (private repo) - https://preciousverses.co.uk/store/
-- Website showcasing some projects related to the Bible (private repo) - https://biblevisualised.co.uk/
-
 To say thank you, you could buy me a coffee?
 
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-black.png)](https://www.buymeacoffee.com/lukeecart)
